@@ -19,7 +19,7 @@ alwaysApply: true
 | Area | Document |
 |------|----------|
 | React / Next.js frontend | `docs/AIOPS/frontend/REACT_RULES.md` |
-| Backend (Python/FastAPI) | `backend/CLAUDE.md`, `backend/.cursorrules` |
+| Backend (Python/FastAPI) | `docs/AIOPS/backend/entity_rules.md`, `backend/CLAUDE.md`, `backend/.cursorrules` |
 
 ## Frontend reminder
 
